@@ -1,0 +1,83 @@
+🎨 Color Palette
+
+
+Primary (Dark Blue)	primary	#27187E
+Secondary (Medium Blue)	secondary	#758BFD
+Light (Supporting Blue)	light	#AEB8FE
+Background (Off White)	background	#F1F2F6
+Accent (CTA Orange)	accent	#FF8600
+
+
+⸻
+
+🧩 UI Role Breakdown
+
+🧱 1. Backgrounds
+
+Main Page Background	#F1F2F6 (background)	Clean, bright, reduces eye strain
+Cards / Sections	White or #AEB8FE (light)	Provides soft contrast
+NavBar/Footer	#27187E (primary)	Strong, trustworthy; separates structure
+Modal / Form BG	#F1F2F6 or White	Keep light for clarity and legibility
+
+
+⸻
+
+🖋️ 2. Text Colors
+
+
+Headings / Primary Text	#27187E (primary)	Bold and readable
+Subtext / Labels	#758BFD (secondary)	Lighter, softer focus
+Placeholder Text	#AEB8FE (light)	Subtle and clean
+Dark Mode Headings (Optional)	White on #27187E	Strong contrast
+
+
+⸻
+
+🔘 3. Buttons / CTAs
+
+
+Primary CTA	#FF8600 (accent)	White	Slightly darker orange #e67600
+Secondary	#27187E	White	#1e1469 or #758BFD
+Disabled	#AEB8FE	White or Gray	No hover
+
+
+⸻
+
+📦 4. Borders, Dividers, UI Elements
+
+
+Card borders	#AEB8FE or light gray	Subtle separation
+Input borders	#758BFD (on focus)	Shows interactivity
+Dividers	#AEB8FE	Keeps layout clean
+Active state	#FF8600 underline or glow	Visual highlight
+
+
+⸻
+
+🟪 5. Highlights, Tags, or Badges
+
+
+Status indicators	#FF8600 (for “new”, “AI”, etc.)
+Info / Guide tooltips	#AEB8FE or #758BFD
+Section labels / tabs	#758BFD (selected), #AEB8FE (unselected)
+
+
+⸻
+
+✨ Example Usage Flow (Landing Page)
+
+
+Navbar	BG: #27187E, Text: #F1F2F6
+Hero Section	BG: #F1F2F6, Heading: #27187E, Subtext: #758BFD, Button: #FF8600
+Features Section	Card BG: White, Text: #27187E, Icons: #758BFD
+Call to Action Section	BG: #27187E, Text: White, Button: #FF8600
+Footer	BG: #27187E, Text: #AEB8FE
+
+
+⸻
+
+💡 Best Practice Tips
+	•	Limit orange (#FF8600) to buttons and emphasis — it’s powerful and works best when used sparingly.
+	•	Always maintain sufficient contrast — use tools like accessible-colors.com to check contrast ratios.
+	•	Create elevation using shadows or layers rather than too many color blocks.
+	•	Be consistent — if #27187E is heading text, don’t switch it randomly.
